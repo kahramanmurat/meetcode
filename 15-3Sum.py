@@ -23,5 +23,5 @@ class Solution:
         return res
 
 
-nums = [-1, 0, 1, 2, -1, -4]
+nums = [0, 0, 0]
 print(Solution.threeSum(self=nums, nums=nums))
